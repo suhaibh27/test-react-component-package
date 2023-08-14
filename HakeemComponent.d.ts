@@ -1,5 +1,4 @@
 declare module 'test-react-component-package' {
-  import { Component } from 'react';
-
-  export const HakeemComponent: React.FC;
-  }
+  import {React} from 'react';
+  export const HakeemComponent : React.FC;
+}

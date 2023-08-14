@@ -1,6 +1,6 @@
 {
   "name": "test-react-component-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "my first test",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,12 @@
     "@babel/core": "^7.22.10",
     "@babel/preset-env": "^7.22.10",
     "@babel/preset-react": "^7.22.5"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "dependencies": {
+    "@types/webrtc": "0.0.36"
   }
 }
