@@ -1,6 +1,6 @@
 {
   "name": "test-react-component-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my first test",
   "main": "index.js",
   "scripts": {

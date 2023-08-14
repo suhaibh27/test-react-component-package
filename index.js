@@ -1,1 +1,1 @@
-export { default as HakeemComponent } from './HakeemComponent';
+export { HakeemComponent } from './HakeemComponent';
