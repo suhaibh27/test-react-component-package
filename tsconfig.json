@@ -1,9 +1,14 @@
 {
-    "compilerOptions": {
-      "baseUrl": ".",
-      "paths": {
-        "test-react-component-package": ["HakeemComponent.d.ts"]
-      },
-      "types": ["webrtc"]
-    }
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "test-react-component-package": [
+        "HakeemComponent.d.ts"
+      ]
+    },
+    "jsx": "react",
+    "declaration": true,
+    "target": "ESNext",
+    "module": "ESNext",
   }
+}
