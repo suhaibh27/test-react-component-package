@@ -1,10 +1,9 @@
 {
   "name": "test-react-component-package",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "my first test",
   "main": "index.js",
   "module": "index.js",
-  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
